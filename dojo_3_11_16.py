@@ -40,7 +40,7 @@ def main():
         get_input()
         check_number()
 
-
+#git check
 
 if __name__ == '__main__':
     main()
